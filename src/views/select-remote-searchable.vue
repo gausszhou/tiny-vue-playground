@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>远程搜索 + 下拉面板</h2>
+    <h2>远程搜索 + 下拉面板可搜索</h2>
     <div>场景 1：远程搜索单选</div>
     <br />
     <tiny-select
